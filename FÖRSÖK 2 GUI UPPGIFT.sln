@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FÖRSÖK 2 GUI UPPGIFT", "FÖRSÖK 2 GUI UPPGIFT\FÖRSÖK 2 GUI UPPGIFT.csproj", "{A09DEBC8-E050-4AA3-94EA-019AC1AD0FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09DEBC8-E050-4AA3-94EA-019AC1AD0FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09DEBC8-E050-4AA3-94EA-019AC1AD0FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09DEBC8-E050-4AA3-94EA-019AC1AD0FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09DEBC8-E050-4AA3-94EA-019AC1AD0FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5475CE4B-FD0A-4547-A2FF-F4C4346C34D2}
+	EndGlobalSection
+EndGlobal
